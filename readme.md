@@ -1,6 +1,6 @@
 ### SORTING ASSIGNMENT
 ######Date: 05/28/2020
-######Done by: Aleksandar Ardjanliev
+
 
 #### RUNNING THE PROGRAM ON A WEB SERVER
 
